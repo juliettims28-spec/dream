@@ -1,0 +1,11 @@
+#profile-title: darksyndicate
+#profile-update-interval: 1
+#announce: юзайте,всех обнимаем
+vless://c012f7af-f818-409a-83d8-ff46b49efc45@107.189.18.203:443?security=reality&sni=a2vonderenkerensheide.nl&fp=qq&pbk=xVjI1dLKVLmwvA9guPsGdHGAtoBxmlxHF9yRsMi2UmY&sid=20346ea6cce4f16a&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%B4%20Fasts%20WI-FI%202
+vless://e5c090cd-a575-47c5-9816-2384759ed3b7@107.189.18.174:443?security=reality&sni=a2vonderenkerensheide.nl&fp=qq&pbk=cidtQHBucdMAdq7kmhUZlljuGLcdthX4dk4cAlAAhDQ&sid=58c4b913faeab777&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%B4%20Fasts%20WI-FI%201
+vless://6dc485e1-dd66-47e5-a1ff-f313e6d54185@185.91.52.199:6443?security=reality&sni=play.overcloud.cloud&insecure=1&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd&type=grpc&serviceName=grpc&packetEncoding=xudp&encryption=none#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%208
+vless://25d25f21-7a9e-426f-8c14-0c06782585ff@81.94.148.119:43000?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=iv.kommersant.ru&pbk=CH7SpnfklhoBKYhez8VhcLzr9wzFkvbKAThOU_3y9lE&sid=7523ef69#%F0%9F%8C%80%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%204
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=rutube.ru&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f#%F0%9F%8C%80%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=secure.furrycdn.net&fp=chrome&allowInsecure=0#Junior%20LTE%207/14
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=secure.furrycdn.net&fp=chrome&allowInsecure=0#Junior%20LTE%204/5
+vless://25d25f21-7a9e-426f-8c14-0c06782585ff@81.94.148.119:43000?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=iv.kommersant.ru&pbk=CH7SpnfklhoBKYhez8VhcLzr9wzFkvbKAThOU_3y9lE&sid=7523ef69#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%202
